@@ -1,0 +1,64 @@
+4. Netherlands18.67 MediumMediumHigh
+5. Finland17.86 MediumMediumMedium
+6. Vietnam17.40 MediumMediumMedium
+7. Denmark17.24 MediumMediumHigh
+8. European Union (27)17.22 MediumMediumHigh
+9. Estonia16.74 MediumMediumMedium
+10. India16.38 MediumMediumMedium
+11. Brazil16.30 MediumMediumHigh
+12. United States16.20 MediumMediumMedium
+13. China15.91 MediumMediumMedium
+14. Morocco15.91 MediumMediumMedium
+15. Germany15.39 MediumMediumHigh
+16. United Arab Emirates14.78 MediumMediumMedium
+17. Chile13.98 MediumLowMedium
+18. Spain13.94 MediumLowMedium
+19. Austria13.87 MediumMediumMedium
+20. Portugal13.24 MediumLowMedium
+21. Belgium12.90 MediumLowMedium
+22. France12.71 MediumLowMedium
+23. Colombia12.37 MediumLowMedium
+24. Chinese Taipei12.02 LowLowMedium
+25. Philippines11.95 LowLowMedium
+26. Indonesia11.90 LowLowMedium
+27. New Zealand11.81 LowLowMedium
+28. Romania11.78 LowMediumLow
+29. Lithuania11.73 LowLowLow
+30. Luxembourg11.52 LowLowMedium
+31. Switzerland11.52 LowLowMedium
+32. Uzbekistan11.49 LowLowLow
+33. Nigeria11.43 LowLowMedium
+34. Latvia11.38 LowLowMedium
+35. Croatia11.38 LowLowLow
+36. Pakistan11.12 LowLowMedium
+37. Sweden10.80 LowLowLow
+38. Thailand10.77 LowLowLow
+39. Egypt10.72 LowLowMedium
+40. Slovenia10.64 LowLowMedium
+41. Greece10.45 LowLowMedium
+42. Slovak Republic10.12 LowLowLow
+43. Ireland10.08 LowLowMedium
+44. Norway9.95 LowLowMedium
+45. South Africa9.74 LowLowLow
+46. United Kingdom9.58 LowLowMedium
+47. Canada9.52 LowLowMedium
+48. Mexico9.04 LowLowLow
+49. Czech Republic8.93 LowLowLow
+50. Australia8.90 LowLowLow
+51. Malta8.85 LowLowMedium
+52. Kazakhstan8.80 LowLowLow
+53. Malaysia7.61 LowLowLow
+54. Cyprus7.26 LowLowLow
+55. Argentina7.16 LowLowLow
+56. Islamic Republic of Iran7.12 LowLowLow
+57. Republic of Korea6.95 LowLowLow
+58. Italy6.49 LowLowLow
+59. Poland6.33 LowLowLow
+60. Algeria6.20 LowLowLow
+61. Bulgaria5.11 LowLowLow
+62. Saudi Arabia5.09 Very LowLowVery Low
+63. Belarus4.86 Very LowLowVery Low
+64. Hungary2.56 Very LowVery LowVery Low
+65. Japan2.50 Very LowVery LowVery Low
+66. Russian Federation1.45 Very LowVery LowVery Low
+67. Turkey1.07 Very LowVery LowVery L
