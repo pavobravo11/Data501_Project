@@ -1,0 +1,64 @@
+4. Philippines17.88 HighVery highMediumVery HighVery High
+5. Colombia17.71 HighVery highMediumHighHigh
+6. Nigeria17.70 HighVery highMediumHighVery High
+7. Egypt17.18 HighVery highMediumHighHigh
+8. United Kingdom16.63 HighMediumHighHighMedium
+9. Mexico16.55 HighVery highHighHighMedium
+10. India16.42 HighVery highLowHighHigh
+11. Greece16.24 HighHighHighMediumMedium
+12. Pakistan16.17 HighVery highVery LowVery HighVery High
+13. Morocco16.06 HighVery highVery LowHighVery High
+14. South Africa15.96 HighHighHighMediumMedium
+15. Thailand15.67 HighHighHighLowMedium
+16. Malta15.64 HighVery highMediumHighMedium
+17. Portugal15.59 HighHighHighLowMedium
+18. Argentina15.33 MediumHighHighLowLow
+19. Estonia15.31 MediumLowVery HighVery HighVery Low
+20. Cyprus15.30 MediumHighMediumMediumMedium
+21. Switzerland15.03 MediumMediumMediumMediumMedium
+22. Brazil14.77 MediumVery highMediumMediumMedium
+23. Romania14.77 MediumHighLowHighHigh
+24. Indonesia14.76 MediumVery highVery LowHighMedium
+25. Spain14.68 MediumMediumHighLowLow
+26. Germany14.54 MediumLowHighLowMedium
+27. Ireland14.11 MediumMediumHighLowMedium
+28. Lithuania14.08 MediumMediumVery LowHighHigh
+29. Algeria13.80 MediumVery highLowLowLow
+30. Belarus13.78 MediumMediumLowMediumHigh
+31. European Union (27)13.72 MediumLowMediumLowMedium
+32. Uzbekistan13.55 MediumVery highVery LowVery HighMedium
+33. Denmark13.53 MediumMediumMediumLowLow
+34. Italy13.52 MediumMediumMediumLowMedium
+35. Netherlands13.48 LowLowHighVery LowMedium
+36. Chile13.41 LowHighMediumVery LowLow
+37. Japan13.15 LowLowHighLowLow
+38. Latvia13.15 LowMediumLowMediumMedium
+39. Hungary12.90 LowMediumLowLowMedium
+40. France12.84 LowLowHighVery LowVery Low
+41. Croatia12.64 LowHighLowLowLow
+42. Slovenia12.35 LowLowHighVery LowVery Low
+43. Vietnam12.10 LowVery highVery LowMediumLow
+44. Bulgaria12.04 LowMediumLowLowLow
+45. Slovak Republic12.04 LowLowLowLowLow
+46. Turkey12.01 LowHighVery LowLowLow
+47. Luxembourg11.84 LowVery LowHighLowLow
+48. Poland11.78 LowMediumLowVery LowLow
+49. New Zealand11.34 Very LowVery LowMediumVery LowVery Low
+50. Malaysia10.99 Very LowMediumLowVery LowVery Low
+51. Austria10.95 Very LowLowMediumVery LowVery Low
+52. Czech Republic10.77 Very LowVery LowMediumVery LowVery Low
+53. Belgium10.55 Very LowVery LowMediumVery LowVery Low
+54. Sweden10.42 Very LowVery LowHighVery LowVery Low
+55. Kazakhstan9.69 Very LowLowMediumLowVery Low
+56. Norway8.96 Very LowVery LowMediumVery LowVery Low
+57. Chinese Taipei8.52 Very LowVery LowMediumVery LowVery Low
+58. Russian Federation8.43 Very LowVery LowVery LowVery LowHigh
+59. Australia8.04 Very LowVery LowMediumVery LowVery Low
+60. Islamic Republic of Iran7.31 Very LowLowVery LowVery LowVery Low
+61. China7.14 Very LowMediumVery LowVery LowVery Low
+62. United States6.69 Very LowVery LowMediumVery LowVery Low
+63. Saudi Arabia6.30 Very LowVery LowHighVery LowVery Low
+64. Republic of Korea5.61 Very LowVery LowMediumVery LowVery Low
+65. Finland4.49 Very LowVery LowMediumVery LowVery Low
+66. United Arab Emirates4.18 Very LowVery LowMediumVery LowVery Low
+67. Canada4.04 Very LowVery LowMediumVery LowVery L
