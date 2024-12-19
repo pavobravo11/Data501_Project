@@ -7,7 +7,7 @@ This project, presented as part of the DATA 501 course, explores the intersectio
 [View the Full Presentation](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Gustavo%20(GI%20Analytics)%20Data%20Science%20Capstone%20Final%20Presentation.pdf)
 
 ## Team
-[!Team](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Team%20Slide.png)
+![Team](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Team%20Slide.png)
 
 ## Problem Statement
 [!Problem Statement](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Problem%20Statement.png)
