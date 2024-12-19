@@ -6,16 +6,16 @@ This project, presented as part of the DATA 501 course, explores the intersectio
 
 [View the Full Presentation](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Gustavo%20(GI%20Analytics)%20Data%20Science%20Capstone%20Final%20Presentation.pdf)
 
-##Team
+## Team
 [!Team](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Team%20Slide.png)
 
-##Problem Statement
+## Problem Statement
 [!Problem Statement](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Problem%20Statement.png)
 
-##Motivation
+## Motivation
 [!Green Finance Importance](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Importance%20of%20Green%20Finance.png)
 
-##Research Questions
+## Research Questions
 1. Which European countries are the most prepared for the green finance transition, and which are falling behind?
 2. What factors most greatly contribute to a country's preparedness towards green financing?
 3. In which areas should underprepared countries prioritize their efforts to achieve the 2050 sustainability goals?
