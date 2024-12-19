@@ -31,13 +31,25 @@ Leveraged insights from prior research and existing indexes to assess country-le
         World Population Review
 
 ### Successful Methods:
-Combined existing indexes and market data for robust analysis.
-    Avoided aggregation difficulties by relying on country-level data from expert-driven sources.
+1. Combined existing indexes and market data for robust analysis.
+Avoided aggregation difficulties by relying on country-level data from expert-driven sources.
+
+2. Created a scorecard to measure a countries preparedness based on these factors
 
 ## Key Results
 Research Question 1: Preparedness for Green Finance
+
 ![Finding 1](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%201.1.png)
+
+#### Ranking the Highest in Climate Policy, The Netherlands has Established Itself as the European Leader in Sustainable Finance, issuing ~15% of its GDP in Sustainable Bonds
+
 ![Finding 2](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%201.2.png)
+
+#### Due to its Lack of Climate Policy and Renewable Energy Usage, Poland is Falling far Behind in the Race for Sustainable Finance, Issuing Less Than 1% of its GDP in Green Instruments
+
+![Finding 3](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%201.3.png)
+
+#### Scorecard Results. Top Countries: Denmark, Netherlands, and Sweden. Bottom Countries: Italy, Poland, and Portugal
 
 Research Question 2: Contributing Factors
 
