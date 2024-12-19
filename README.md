@@ -13,11 +13,15 @@ This project, presented as part of the DATA 501 course, explores the intersectio
 ![Problem Statement](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Problem%20Statement.png)
 
 ## Motivation
+#### The Importance of Green Finance
 ![Green Finance Importance](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Importance%20of%20Green%20Finance.png)
+
+#### The Gap of Knowledge
+![Gap of Knowledge](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Gap%20of%20Knowledge.png)
 
 ## Research Questions
 1. Which European countries are the most prepared for the green finance transition, and which are falling behind?
-2. What factors most greatly contribute to a country's preparedness towards green financing?
+2. What factors greatly contribute to a country's preparedness for green financing?
 3. In which areas should underprepared countries prioritize their efforts to achieve the 2050 sustainability goals?
 
 ## Methodology
@@ -54,48 +58,40 @@ Avoided aggregation difficulties by relying on country-level data from expert-dr
 ### Research Question 2: Contributing Factors
 Key Indicators:
 
-### Governance scores and ESG activities from MSCI.
+#### Governance scores and ESG activities from MSCI.
 
 ![Indicator 1](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%202.2.png)
 
-### Climate policy, renewable usage, and energy efficiency from CCPI.
+#### Climate policy, renewable usage, and energy efficiency from CCPI.
 
 ![Indicator 2](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%202.3.png)
 
-### Natural disaster resilience metrics from World Population Review.
+#### Natural disaster resilience metrics from World Population Review.
 
 ![Indicator 3](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%202.5.png)
 
-### Amount invested into green finance from Bloomberg.
+#### Amount invested into green finance from Bloomberg.
 
 ![Indicator 4](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%202.7.png)
 
-### Findings:
-### 1. Strong climate policies and renewable energy adoption drive preparedness.
-### 2. Corporate willingness and governance influence ESG initiatives.
+#### Findings:
+#### 1. Strong climate policies and renewable energy adoption drive preparedness.
+#### 2. Corporate willingness and governance influence ESG initiatives.
 
-Research Question 3: Prioritization for Underprepared Countries
+### Research Question 3: Prioritization for Underprepared Countries
 
-    Key Areas of Focus: Climate policy and green bond market development.
-    Observations:
-        Countries with weaker climate policies have smaller sustainable bond markets.
-        Northern European countries lead in renewable energy usage and GHG reduction.
+![Policy vs Bonds](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%203.2.png)
 
-Discussion
-Lessons Learned:
+#### Key Areas of Focus: Climate policy and green bond market development.
+#### Observations:
+#### 1. Countries with weaker climate policies have smaller sustainable bond markets.
+#### 2. Northern European countries lead in renewable energy usage and GHG reduction.
 
-    Green bonds are effective for financing sustainable projects.
-    Strong government incentives are crucial for driving private-sector adoption of green finance.
+## Discussion
+### Lessons Learned:
+Green bonds are effective for financing sustainable projects.
+Strong government incentives are crucial for driving private-sector adoption of green finance.
 
-Key Reflection:
+### Key Reflection:
+The most effective strategy for achieving sustainability is a "top-down" approach that combines governmental policy and private-sector initiatives.
 
-    A "top-down" approach, combining governmental policy and private-sector initiatives, is the most effective strategy for driving sustainability.
-
-Future Considerations
-
-    Extrapolation Using Machine Learning:
-        Predict performance of countries with limited data.
-    Explore Relationships:
-        Uncover deeper insights within existing models.
-    Dashboard Development:
-        Create centralized platforms to analyze results and monitor progress.
