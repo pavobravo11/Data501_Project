@@ -10,20 +10,19 @@ This project, presented as part of the DATA 501 course, explores the intersectio
 ![Team](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Team%20Slide.png)
 
 ## Problem Statement
-[!Problem Statement](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Problem%20Statement.png)
+![Problem Statement](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Problem%20Statement.png)
 
 ## Motivation
-[!Green Finance Importance](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Importance%20of%20Green%20Finance.png)
+![Green Finance Importance](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Importance%20of%20Green%20Finance.png)
 
 ## Research Questions
 1. Which European countries are the most prepared for the green finance transition, and which are falling behind?
 2. What factors most greatly contribute to a country's preparedness towards green financing?
 3. In which areas should underprepared countries prioritize their efforts to achieve the 2050 sustainability goals?
 
-Methodology
-Data Aggregation:
-
-    Leveraged insights from prior research and existing indexes to assess country-level data without recreating research methods.
+## Methodology
+### Data Aggregation:
+Leveraged insights from prior research and existing indexes to assess country-level data without recreating research methods.
     Focused on scientifically driven methods and scorecards to measure specific attributes.
     Incorporated diverse data sources like:
         Climate Change Performance Index (CCPI)
@@ -31,19 +30,14 @@ Data Aggregation:
         Bloomberg Terminals
         World Population Review
 
-Successful Methods:
-
-    Combined existing indexes and market data for robust analysis.
+### Successful Methods:
+Combined existing indexes and market data for robust analysis.
     Avoided aggregation difficulties by relying on country-level data from expert-driven sources.
 
-Key Results
+## Key Results
 Research Question 1: Preparedness for Green Finance
-
-    Top 3 Countries: Netherlands, Denmark, Sweden
-    Bottom 3 Countries: Portugal, Italy, Poland
-    Insights:
-        Netherlands excels in sustainable finance, issuing ~15% of its GDP in sustainable bonds.
-        Poland struggles with renewable energy and green financial instruments, issuing less than 1% of its GDP in green instruments.
+![Finding 1](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%201.1.png)
+![Finding 2](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%201.2.png)
 
 Research Question 2: Contributing Factors
 
