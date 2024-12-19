@@ -43,13 +43,16 @@ Avoided aggregation difficulties by relying on country-level data from expert-dr
 
 #### Insight: Ranking the Highest in Climate Policy, The Netherlands has Established Itself as the European Leader in Sustainable Finance, issuing ~15% of its GDP in Sustainable Bonds
 
+
 ![Finding 2](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%201.2.png)
 
 #### Insight: Due to its Lack of Climate Policy and Renewable Energy Usage, Poland is Falling far Behind in the Race for Sustainable Finance, Issuing Less Than 1% of its GDP in Green Instruments
 
+
 ![Finding 3](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/RQ%20Finding%201.3.png)
 
 #### Scorecard Results. Top Countries: Denmark, Netherlands, and Sweden. Bottom Countries: Italy, Poland, and Portugal
+
 
 ### Research Question 2: Contributing Factors
 Key Indicators:
