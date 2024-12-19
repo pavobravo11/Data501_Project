@@ -1,26 +1,24 @@
+# Capstone Project
+
 ![Data501_Project/powerpoint/Title Slide.png](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Title%20Slide.png)
 
 This project, presented as part of the DATA 501 course, explores the intersection of climate action and green finance. The research focuses on analyzing the preparedness of European countries for transitioning to green finance, identifying key factors influencing this preparedness, and proposing actionable strategies for underperforming nations to meet sustainability goals by 2050.
 
 [View the Full Presentation](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Gustavo%20(GI%20Analytics)%20Data%20Science%20Capstone%20Final%20Presentation.pdf)
 
-Team
+##Team
+[!Team](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Team%20Slide.png)
 
-    Gustavo Bravo - Data Scientist
-    Ivy Lee - Data Strategist
+##Problem Statement
+[!Problem Statement](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Problem%20Statement.png)
 
-Motivation
-Why We Chose This Topic:
+##Motivation
+[!Green Finance Importance](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Importance%20of%20Green%20Finance.png)
 
-    The shift towards sustainable business practices and the ever-changing effects of climate change motivated us to explore green finance.
-    Europe's leadership in sustainability makes it an ideal focus for analyzing green financial initiatives.
-    Personal interest in understanding the role of finance and investment reporting in addressing climate change challenges.
-
-Research Questions
-
-    Which European countries are the most prepared for the green finance transition, and which are falling behind?
-    What factors most greatly contribute to a country's preparedness towards green financing?
-    In which areas should underprepared countries prioritize their efforts to achieve the 2050 sustainability goals?
+##Research Questions
+1. Which European countries are the most prepared for the green finance transition, and which are falling behind?
+2. What factors most greatly contribute to a country's preparedness towards green financing?
+3. In which areas should underprepared countries prioritize their efforts to achieve the 2050 sustainability goals?
 
 Methodology
 Data Aggregation:
