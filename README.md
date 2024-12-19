@@ -1,4 +1,4 @@
-![Title Slide]([Data501_Project/powerpoint/Title Slide.png](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Title%20Slide.png))
+![Data501_Project/powerpoint/Title Slide.png](https://github.com/pavobravo11/Data501_Project/blob/master/powerpoint/Title%20Slide.png)
 
 This project, presented as part of the DATA 501 course, explores the intersection of climate action and green finance. The research focuses on analyzing the preparedness of European countries for transitioning to green finance, identifying key factors influencing this preparedness, and proposing actionable strategies for underperforming nations to meet sustainability goals by 2050.
 
